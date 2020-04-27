@@ -1,0 +1,12 @@
+zh_CN:
+  request_state:
+    accepted: قبلت
+    canceled: إلغاء
+    expired: انتهت
+    finished: مغلق
+    in_progress: جارية
+    missed: لقد غاب
+    paid: المدفوعة
+    payment_captured: وقد تم القبض على الدفع
+    pending: وقفة
+    requested: وقد طلب ذلك

@@ -1,0 +1,13 @@
+zh_CN:
+  request_state:
+    accepted: 已接受
+    canceled: 已取消
+    expired: 已过期
+    finished: 已结束
+    in_progress: 进行中
+    missed: 已错过
+    paid: 已付
+    payment_captured: 支付已抓获
+    pending: 暂停
+    requested: 已请求
+    declined: 已请求

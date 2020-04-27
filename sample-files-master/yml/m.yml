@@ -1,0 +1,135 @@
+zh_CN:
+  m:
+    language: 中文 (简)
+    all_categories: 所有类别
+    and: 并且
+    agree: 我同意 RingMD
+    article:
+      not_available: 没有可用的文章。
+      not_matched: 没有匹配的文章。
+    back: 返回
+    by: 来自
+    devise:
+      change_password: 更改我的密码
+      confirm_new_password: 确认新密码
+      new_password: 新密码
+      send_instructions: 向我发送重置密码说明
+    email: 电子邮件
+    from: 来自
+    go: 出发
+    head:
+      description: 立即连接到最优秀的医生。向医疗专家提问，或与他们进行语音或视频交谈，以做出更自信的决策，收获更健康的体魄。
+      title: RingMD - 随时与医生联系！
+    in: 在
+    latest_article_notice: 您正在查看最新的文章。
+    minimum_6: 最少 6 个字符
+    name: 姓名
+    nav:
+      articles: 文章
+      home: 主页
+      menu: 菜单
+      notifications: 通知
+      passwords: 密码
+      questions: 问题
+      answers: 回答
+      searches: 搜索
+      sign_in: 登录
+      sign_out: 注销
+      sign_up: 注册
+      question:
+        ask: 询问
+        feed: 源订阅
+        followed: 已跟进
+        edit_question: 编辑问题
+        delete: 删除问题
+      errors: 错误
+    errors:
+      not_found:
+        header: 无法找到页面
+        body: 我们无法找到您要查找的页面。请检查您的拼写并重试。
+      access_denied:
+        header: 访问被拒绝
+        body: 您尝试访问的页面已被禁止。
+      internal_server_error:
+        header: 内部服务器错误
+        body: 您正在寻找的资源存在问题。请单击此按钮来返回。
+      doctor_sign_in: 仅支持患者帐户。
+    newer: 较新
+    no_notifications: 您没有通知。
+    no_followed_questions: 您没有跟进任何问题。
+    notification:
+      not_available: 没有可用的通知。
+    older: 较旧
+    oldest_article_notice: 您正在查看较旧的文章。
+    password: 密码
+    please: 请
+    policy: 政策
+    posted_in: 发表于
+    question:
+      edit_below: 在下方编辑您的问题
+      post: 发表问题
+      posting: Posting...
+      created_notice: 问题已成功创建。
+      follow_success: 已成功跟进问题。
+      follow_error: 无法跟进问题。请重试。
+      unfollow_success: 已成功取消跟进问题。
+      unfollow_error: 无法取消跟进问题。请重试。
+      see: 以查看您的问题。
+      type: 在下方键入您的问题。最多允许 300 个字符。
+      ask: 以提出问题
+      update_success: 问题已成功更新。
+      delete_failure: 无法删除问题，因为此问题已被其他用户回答或跟进。
+      delete_success: 问题已成功删除。
+      content: 内容
+      answer_not_available: 没有可用的答案。
+      not_available: 没有可用的问题。
+      not_matched: 没有匹配的问题
+      need_to_signin: 您在继续前需要登录！
+    profile:
+      requirements_update_required: 为了更好地回答您的问题，这里有所需的附加信息。
+      select_gender: 选择您的性别
+      select_birth_year: 选择您的出生年份
+      post_update: 更新个人信息
+      update_success: 您的资料已经成功更新。
+      update_error: 更新您的个人信息时发生错误。
+      required: 所有字段都是必需的。
+    record_not_matched: 没有匹配的记录。
+    search:
+      search: 搜索
+      term_empty: 关键词不可为空
+      type_keyword: 键入医疗关键词
+      nav:
+        all: 全部
+        articles: 文章
+        questions: 问题
+    see_notifications: 以查看通知。
+    select_category: 选择类别
+    select_category_for_question: 为您的问题选择医疗类别
+    sign_in: 登录
+    sign_in_btn: 登录
+    sign_up_btn: 注册
+    terms: 条款
+    edited_on: 编辑于
+    posted_on: 发表于
+    thanks:
+      thanked: 谢谢！ 您刚刚感谢了医生。
+      errors: 尝试采取您的操作时发生错误。
+    thanks_note:
+      thank: 感谢
+      thanked: 已感谢
+      add_thanks_note: 添加感谢备注
+      thanks_note_created: 感谢备注已成功创建。
+      thanks_note_updated: 感谢备注已成功更新。
+      thanks_note_deleted: 感谢备注已成功删除。
+      only_once_per_question: 对于一个回答，您仅可添加一个感谢备注。
+      delete_thanks_note: 要删除此感谢备注吗？
+      view_more: 查看更多
+    answer:
+      agreed: 已同意
+    country: 國家
+    languages: 語言
+    country_select: 选择国家
+    language_select: 选择语言
+    password_forgot: 忘记密码？
+    already_user: 已经是用户吗？
+    new_user: 新用户？

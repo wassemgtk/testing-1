@@ -1,0 +1,161 @@
+zh_CN:
+  about_ringmd: 关于RingMD
+  account_mailer:
+    confirmation_instructions:
+      confirm_account: 确认我的帐户
+      confirm_instruction: 只差一步便可以成功加入Ring.MD，请点击以下链接来确认您的电邮地址，并激活您的帐户。
+      header: 帐户确认
+    reset_password_instructions:
+      change_password: 更改我的密码
+      change_password_instruction: 有人要求一个更改您密码的链接，您可以通过下面的链接来做到这一点。
+      header: 密码重置指示
+      ignore_email: 如果您并没有提出要求，请忽略此电子邮件。
+      password_not_change: 您的密码将不会改变，直到您访问上面的链接，并创建一个新的密码为止。
+    send_password_for_user:
+      account_created: 您在Ring.MD上的帐户已被创建
+      header: 您在Ring.MD上的帐户已被创建
+      password: 密码
+      sign_in_with_info: 以以下信息登录
+      subject: 您的RingMD帐户已被创建
+      thanks: 谢谢，如有任何问题，请随时发送电邮给我。
+      username: 用户名
+    unlock_instructions:
+      account_locked: 由于尝试登录的失败次数过多，您的帐户已被封锁。
+      header: 帐户已被封锁
+      unlock_account: 解锁我的帐户
+      unlock_instruction: 点击下面的链接来解锁您的帐户
+  ago: 前
+  best_with_regards: 此致问候
+  blog: 博客
+  click_here: 点击这里
+  clicking_here: 点击这里
+  dear: 亲爱的
+  dear_dr: 亲爱的医生
+  follow_us: 追踪我们
+  hello: 您好
+  here: 这里
+  in: 在
+  invitation_mailer:
+    invite_doctors_to_register:
+      friend_request: 向您发送好友请求。请
+      header: 邀请
+      invite_instruction: 查看他的邀请。
+      said_that: 说
+  m:
+    agree_term: 同意项目
+  mailer:
+    no_reply:
+      notification_only: 此信息是由通知专用的电邮地址发出，并且不会接收任何电邮，请不要回复此邮件。
+    signature:
+      all_the_best: 祝一切顺利，
+      founder: RingMD创始人
+    team_signature:
+      all_the_best: 祝一切顺利，
+      ringmd_team: RingMD团队
+    signature_in_partner_page:
+      all_the_best: 祝一切顺利，
+      talk_to_patients: 为最好的医生提供快速简便的方法来与患者交流。
+    unsubscribe:
+      stop_receiving: 要停止接收这些电子邮件，你可以
+      subscribed_updates: 您从RingMD订阅了最新电邮信息。
+      unsubscribe: 取消订阅
+  notification_mailer:
+    question_answered_owner_notification:
+      subject: 您在RingMD的问题有新答案
+      dear: 亲爱的
+      doctor_has_an_answer_for_your_question: 医生%{doctor_name}回答了您的问题"%{question_content}"
+      view_answer: 查看答案
+    account_approved_notification:
+      header: 您在Ring.MD的帐户已被批准
+      sign_in: 登录。
+      subject: 您的帐户已被批准
+      thanks: 谢谢，如有任何问题，请随时发送电邮给我。
+    send_email_about_message:
+      sent_a_message: 给您发送了新的信息。
+      view_message: 查看信息
+    send_message_bulk_notification:
+      said: 说
+      subject: 新信息从
+  now: 现在
+  model:
+    user:
+      is_not_supported: 并不支持！
+  partners_mailer:
+    email_campaign:
+      join_instruction: 要加入Ring.MD，请访问此链接
+      sincerely: 此致
+    send_approved_notification:
+      approve_instruction: 您在RingMD的帐户已被批准，贵公司的佣金率是
+      go_to_sign_in: 进入登录页面
+      header: 账户确认
+      log_in: 现在您可以登录。
+      subject: 您的RingMD帐户已被批准！
+    send_invitation:
+      go_to_account_creation: 进入帐户创建页面
+      has_send_invitation: 已经向您发送了加入ringmd的邀请并作为
+      header: 账户确认
+      invitation_instruction: 请点击下面的按钮来接受邀请并注册。
+      subject: 邀请加入Ring.MD
+      with_message: 连同信息
+  please: 请
+  privacy_policy: 隐私政策
+  request_mailer:
+    notify_doctor_about_new_request:
+      dear_dr: 亲爱的医生
+      header: 请求通知
+      instruction_end: 查看请求。
+      instruction_start: 向您发送了请求。请
+      set_receive_notification: 您可以设置是否想收到由我们发出的电邮通知，通过
+      subject: 来自患者的请求
+    notify_doctor_about_reminded_request:
+      header: 通话提醒
+      instruction_end: 在约1小时。
+      instruction_start: 您将会进行通话，来自
+      link: |
+        请访问 <a href="%{request_url}" target="_blank">%{request_url}</a> 来查看关于这个通话的详细信息。
+      subject: 通话提醒
+    notify_patient_about_accepted_request:
+      header: 通话提醒
+      instruction_start: 已确认您在RingMD的预约于%{accepted time}
+      subject: 通话提醒
+    notify_patient_about_reminded_request:
+      header: 通话提醒
+      instruction_end: 在约1小时。
+      instruction_start: 您将会进行通话，来自
+      link: |
+        请访问 <a href="%{request_url}" target="_blank">%{request_url}</a> 来查看关于这个通话的详细信息。
+      subject: 通话提醒
+    send_confirmation:
+      account_instruction: 请点击下面的按钮来确认您的电邮地址，并激活您的帐户。通过点击下面的按钮，您同意RingMD
+      activate_account: 激活账户
+      and_password: 和密码
+      header: 账户确认
+      made_request: 您刚刚向医生提出了请求
+      once_click_button: 一旦您点击了按钮，与这电邮地址相连的帐户
+      subject: 请求确认
+      will_be_created: 便会被创建。
+    send_payment_success_email:
+      account_not_charged: 接受您的请求。如果您的请求不被接受，您的帐户将不会被收取费用。
+      book_request: 你已经预订了一个请求
+      expected_cost: 预计预约费用
+      consultation_cost: 咨询费用
+      proposed_appointment: 建议预约
+      reason: 原因
+      reference: 参考
+      subject: 您已成功预订了RingMD的请求
+      when: 当
+      will_be_notified: 您将会被通知，通过
+  sorry: 抱歉
+  terms_of_service: 服务条款
+  thank_you: 谢谢
+  try_again: 再试一次
+  view:
+    checkout:
+      consultation_cost: 咨询费用
+      estimated_cost: 30分钟的估计费用
+      only_charged: 当您与我们的医生通话时才会收取费用
+      request_with: 您请求通话至
+    description: 马上连接到最好的医生，提出问题，与医学专家通话或视频聊天，为健康做出具信心的决定
+  visit_homepage: 访问首页
+  instant_call:
+    doctor_cancel: 对不起，医生已经取消了该请求。

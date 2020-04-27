@@ -1,0 +1,188 @@
+zh_CN:
+  activerecord:
+    attributes:
+      doctor_profile:
+        price_per_hour_cents: 每小时价格
+        price_per_minute_cents: 每分钟价格
+      request:
+        caller_number: 电话号码
+      user:
+        agree_on_terms: 对我们的条款和条件的协议
+        phone_raw_number: 电话号码
+    errors:
+      models:
+        question:
+          attributes:
+            content:
+              already_have_activities: 无法编辑问题，因为它已经被其他用户回答或追踪。
+  date:
+    abbr_day_names:
+    - 日
+    - 一
+    - 二
+    - 三
+    - 四
+    - 五
+    - 六
+    day_names:
+    - 星期日
+    - 星期一
+    - 星期二
+    - 星期三
+    - 星期四
+    - 星期五
+    - 星期六
+    formats:
+      default: "%Y-%m-%d"
+      long: "%B %d, %Y"
+      short: "%b %d"
+    order:
+    - :年
+    - :月
+    - :日
+  datetime:
+    distance_in_words:
+      about_x_hours:
+        other: 大约%{count}小时
+      about_x_months:
+        other: 大约%{count}个月
+      about_x_years:
+        other: 大约%{count}年
+      almost_x_years:
+        other: 差不多%{count}年
+      half_a_minute: 半分钟
+      less_than_x_minutes:
+        other: 少于%{count}分钟
+      less_than_x_seconds:
+        other: 少于%{count}秒钟
+      over_x_years:
+        other: 超过%{count}年
+      x_days:
+        other: '%{count}天'
+      x_minutes:
+        other: '%{count}分钟'
+      x_months:
+        other: '%{count}月'
+      x_seconds:
+        other: '%{count}秒钟'
+    prompts:
+      day: 日
+      hour: 小时
+      minute: 分钟
+      month: 月
+      second: 秒钟
+      year: 年
+  errors:
+    attributes:
+      answer:
+        value_true_or_false: 您的答案应该是真或假。
+      favorite_user:
+        be_doctor: 你应该只收藏医生。
+      phone_code:
+        invalid: 您的电话代码应该以'+'开始，并只包含数字。
+      phone_raw_number:
+        invalid: 您的电话号码只可包含数字、连字符、句号和空格。
+      receiver:
+        unapproved_doctor: 医生不获RingMD批准，请选择其他医生。
+      receiver_id:
+        self_message: 您不应该发送信息给自己。
+      reserve_slot:
+        already_reserved: 时间已被保留。
+      reserve_slot_order:
+        already_reserved: 时间%{order}已被保留，请选择其他时间。
+      role:
+        invalid: 您的帐户角色无效。
+      time_slots:
+        equal_to: 您必须明确选择3%{attribute}。
+        in_the_past_1: '%{attribute}1是过去的，请再试一次。'
+        in_the_past_2: '%{attribute}2是过去的，请再试一次。'
+        in_the_past_3: '%{attribute}3是过去的，请再试一次。'
+        overlap_1_2: '%{attribute}1和2不能重叠，请再试一次。'
+        overlap_1_3: '%{attribute}1和3不能重叠，请再试一次。'
+        overlap_2_3: '%{attribute}2和3不能重叠，请再试一次。'
+      user:
+        invalid_token: 您的令牌已到期或之前已被使用，请尝试其他令牌。
+      user_id:
+        already_subscribed: 您之前已经订阅。
+        pending_subscription: 您已经有一个悬而未决的订阅，请等待进行订阅处理。
+    format: "%{message}"
+    messages:
+      accepted: 请接受%{attribute}。
+      access_denied: 您不能使用此功能。
+      blank: 请输入您的%{attribute}。
+      confirmation: 您的%{attribute}不匹配
+      empty: 请输入%{attribute}。
+      equal_to: '%{attribute}的数量必须等于%{count}。'
+      even: 请输入一个偶数%{attribute}。
+      exclusion: '%{attribute}已被保留。'
+      greater_than: 请输入大于%{count}的%{attribute}。
+      greater_than_or_equal_to: 请输入大于或等于%{count}的%{attribute}。
+      inclusion: 不允许%{attribute}的数值，请选择一个有效的%{attribute}。
+      invalid: 请输入一个有效的%{attribute}。
+      invalid_login: 无效的电邮或密码。
+      less_than: 请输入少于％{count}的%{attribute}。
+      less_than_or_equal_to: 请输入小于或等于%{count}的%{attribute}。
+      not_a_number: 请为%{attribute}填写一个数字。
+      not_an_integer: 请为%{attribute}输入一个整数。
+      odd: 请输入一个奇数%{attribute}。
+      other_than: '%{attribute}必须不同于%{count}。'
+      present: 您的%{attribute}必须留空。
+      record_invalid: '验证失败：%{errors}'
+      restrict_dependent_destroy:
+        many: 无法删除记录，因为受影响的%{record}存在。
+        one: 无法删除记录，因为受影响的%{record}存在。
+      taken: '%{attribute}已被采用。'
+      too_long:
+        other: '%{attribute}太长(最多%{count}个字符)。'
+      too_short:
+        other: '%{attribute}太短(最少%{count}个字符)。'
+      wrong_length:
+        other: '%{attribute}应该只有%{count}个字符)。'
+    template:
+      body: '以下字段有些问题：'
+      header:
+        other: '%{count}个错误禁止此%{model}被保存。'
+  helpers:
+    select:
+      prompt: 请选择
+    submit:
+      create: 创建%{model}
+      submit: 保存%{model}
+      update: 更新%{model}
+  number:
+    format:
+      delimiter: ","
+      separator: "."
+    human:
+      decimal_units:
+        format: "%n %u"
+        units:
+          billion: 十亿
+          million: 百万
+          quadrillion: 万亿
+          thousand: 千
+          trillion: 兆
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            other: Bytes
+          gb: GB
+          kb: KB
+          mb: MB
+          tb: TB
+    percentage:
+      format:
+        format: "%n%"
+  support:
+    array:
+      last_word_connector: ", 和"
+      two_words_connector: "和"
+      words_connector: ", "
+  time:
+    am: 上午
+    formats:
+      default: "%a, %d %b %Y %H:%M %Z"
+      long: "%B %d, %Y %H:%M"
+      short: "%d %b %H:%M"
+    pm: 下午

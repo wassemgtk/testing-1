@@ -1,0 +1,174 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: RingMD\n"
+"PO-Revision-Date: 2015-11-27 06:05+0000\n"
+"Last-Translator: VU MINH TAN <tan@medpats.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/ringmd/ringmd/language/zh_CN/)\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:16
+msgid "All"
+msgstr "所有"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:5
+msgid "Answer"
+msgstr "答案"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:6
+msgid "Answers"
+msgstr "答案"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:23
+msgid "Confirm new password is required."
+msgstr "需要再次输入新密码。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:30
+msgid "Create your RingMD account"
+msgstr "创建您的 RingMD 账户"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:28
+msgid "Current Symptoms"
+msgstr "当前病征"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:21
+msgid "Current password is required."
+msgstr "需要输入当前密码。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:8
+msgid "Email is required."
+msgstr "需要电子邮件。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:27
+msgid "Family History"
+msgstr "家族病史"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:7
+msgid "Full name is required."
+msgstr "需要输入全名。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:25
+msgid "General Information"
+msgstr "通用信息"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:18
+msgid "My Answers"
+msgstr "我的答案"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:22
+msgid "New password is required."
+msgstr "需要输入新密码。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:9
+msgid "Password is required."
+msgstr "需要输入密码。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:26
+msgid "Past History"
+msgstr "过往历史"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_7th_2015.js:4
+msgid "Phone call with"
+msgstr "拨打电话"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:10
+msgid "Phone number is required."
+msgstr "需要输入手机号码。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:33
+msgid "Please"
+msgstr "请"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:29
+msgid "Pregnancy is required."
+msgstr "需要输入怀孕时间。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:11
+msgid "Price is required."
+msgstr "需要输入价格。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:19
+msgid "Remove from Colleagues"
+msgstr "从同事列表中移除"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:15
+msgid "Select you specialty"
+msgstr "选择您的专科"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:12
+msgid "Select your category"
+msgstr "选择您的类别"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:20
+msgid "Title is required."
+msgstr "需要输入标题。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:17
+msgid "Unanswered"
+msgstr "没有回答"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:24
+msgid "Update Health Profile"
+msgstr "更新健康资料"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_7th_2015.js:3
+msgid "Video call with"
+msgstr "视频通话"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:14
+msgid "We only accept these formats:"
+msgstr "我们只接受下列格式："
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:13
+msgid "You cannot upload a file greater than"
+msgstr "您上传的文件不能大于"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:3
+#: ../../app/assets/javascripts/locales/missing_text.js:3
+msgid "answer"
+msgstr "答案"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:4
+#: ../../app/assets/javascripts/locales/missing_text.js:5
+msgid "answers"
+msgstr "答案"
+
+#: ../../app/assets/javascripts/locales/missing_text.js:7
+msgid "doctor"
+msgstr "医生"
+
+#: ../../app/assets/javascripts/locales/missing_text.js:8
+msgid "doctors"
+msgstr "医生"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:32
+msgid "log in"
+msgstr "登录"
+
+#: ../../app/assets/javascripts/locales/missing_text.js:4
+msgid "more answer"
+msgstr "更多答案"
+
+#: ../../app/assets/javascripts/locales/missing_text.js:6
+msgid "more answers"
+msgstr "更多答案"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:31
+msgid "or"
+msgstr "或者"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:35
+msgid "to see your favorites."
+msgstr "查看您的常用联系人。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:36
+msgid "to see your messages."
+msgstr "查看您的消息。"
+
+#: ../../app/assets/javascripts/locales/missing_fronend_text_Sep_2nd_2015.js:34
+msgid "to see your request."
+msgstr "查看您的申请。"

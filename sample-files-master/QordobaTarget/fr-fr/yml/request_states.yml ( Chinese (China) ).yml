@@ -1,0 +1,12 @@
+zh_CN:
+  request_state:
+    accepted: Accepté
+    canceled: Annulé
+    expired: Expiré
+    finished: Fermé
+    in_progress: En cours
+    missed: Je l'ai manquée
+    paid: Payé
+    payment_captured: Paiement a été capturé
+    pending: Pause
+    requested: Il a été demandé
