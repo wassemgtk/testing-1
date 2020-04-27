@@ -1,0 +1,12 @@
+{
+  "ACTIVITY_LOG_DETAIL.EVENT_INFORMATION_UNAVAILABLE": "La información del evento no está disponible. Por favor, inténtelo de nuevo más tarde.",
+  "ACTIVITY_LOG_DETAIL.HEADER": "Detalle de actividad",
+  "ACTIVITY_LOG_DETAIL.DOWNLOADING_LOGS_MSG": "Preparación de registro para series de eventos seleccionados. El archivo estará disponible durante 24 horas en el Registro de actividad una vez que esté listo.",
+  "ACTIVITY_LOG_DETAIL.RELATED_ARTICLE": "Artículo relacionado",
+  "ACTIVITY_LOG_DETAIL.BUTTONS.DOWNLOAD_LOGS": "Descargar registros del servidor",
+  "ACTIVITY_LOG_DETAIL.BUTTONS.DOWNLOADING_LOGS": "Descargar registros del servidor",
+  "ACTIVITY_LOG_DETAIL.COLUMN_HEADERS.STATUS": "Estado",
+  "ACTIVITY_LOG_DETAIL.COLUMN_HEADERS.NAME": "Nombre",
+  "ACTIVITY_LOG_DETAIL.COLUMN_HEADERS.ACTIVITY": "Actividad",
+  "ACTIVITY_LOG_DETAIL.COLUMN_HEADERS.DATE": "Fecha"
+}
