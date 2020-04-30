@@ -1,6 +1,6 @@
 {
   "ACTIVITY_LOG_DETAIL.EVENT_INFORMATION_UNAVAILABLE": "Event information is unavailable. Please try again later.",
-  "ACTIVITY_LOG_DETAIL.HEADER": "Activity Detail",
+  "ACTIVITY_LOG_DETAIL.HEADER": "Activity Details",
   "ACTIVITY_LOG_DETAIL.DOWNLOADING_LOGS_MSG": "Preparing log for selected event series. File will be available for 24 hours in Activity Log once ready.",
   "ACTIVITY_LOG_DETAIL.RELATED_ARTICLE": "Related Article",
   "ACTIVITY_LOG_DETAIL.BUTTONS.DOWNLOAD_LOGS": "Download Server Logs",
